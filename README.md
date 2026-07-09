@@ -1,5 +1,12 @@
 # Student Grade Calculator
+
+<br>
+
+## This project is for learning Jenknis
+
+<br>
 Folder Structure:
+
 ```
 student-grade-calculator/
 ├── src
